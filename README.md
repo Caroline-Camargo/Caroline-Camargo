@@ -34,7 +34,7 @@ Sou estudante Bacharelado em Ciências da Computação
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
 
 <br/>
-<h1></h1>
+<hr>
 <br/>
 
 [![Caroline-Camargo stats](https://github-readme-stats.vercel.app/api?username=Caroline-Camargo&theme=Dracula&show_icons=true)](https://github.com/Caroline-Camargo/github-readme-stats)
