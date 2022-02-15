@@ -11,9 +11,8 @@
 </a>
 
 Sou estudante Bacharelado em Ciências da Computação
-<h2> 👩‍💻🎓😊 </h2>
+👩‍💻🎓😊 
 
-<br/>
 <br/>
 
 
